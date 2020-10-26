@@ -1,2 +1,2 @@
-# used_car_price_prediction
-Predicting price for used car with linear regression
+# Car Price Prediction
+Data science project using linear regression for predicting car price 
